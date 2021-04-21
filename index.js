@@ -1,7 +1,7 @@
-import setMessage from './ej1.js'
-import randomNums from './ej2.js'
-import getInfo from './ej3.js'
-import operation from './ej4.js'
+import setMessage from './lib/ej1.js'
+import randomNums from './lib/ej2.js'
+import getInfo from './lib/ej3.js'
+import operation from './lib/ej4.js'
 import express from 'express';
 
 const app = express();
